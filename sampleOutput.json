@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "Ayon Bag",
+      "title": "England vs Oman LIVE: ICC T20 World Cup 2024 - cricket score, commentary, video highlights & updates",
+      "description": "England face Oman at the Men's T20 World Cup in Antigua - follow text updates, in-play video highlights and radio commentary.",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/cw447w1xypdt",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+      "publishedAt": "2024-06-13T18:52:19.7327308Z",
+      "content": "Over the next 40 overs and few days, you might hear a lot about net run-rate. Here's how that works...\r\nRun-rate is the average number of runs scored per over by a team in their entire innings - so, … [+633 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Jai Bednall",
+      "title": "Simple cricket detail Americans can’t grasp",
+      "description": "Take it from an Aussie married to an American, it’s best to start any conversation with someone from the United States with the assumption they no extremely little about anything outside their own borders.",
+      "url": "https://www.news.com.au/sport/cricket/simple-cricket-detail-americans-cant-understand-wtf-is-this/news-story/7c6cf3aff8c7e165a40451a52acf7a8c",
+      "urlToImage": "https://content.api.news/v3/images/bin/8975bb2d24c2a2a3ed1da9b75d4558db",
+      "publishedAt": "2024-06-13T17:26:00Z",
+      "content": "Take it from an Aussie married to an American, it’s best to start any conversation with someone from the United States with the assumption they no extremely little about anything outside their own bo… [+3264 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Jandu bam",
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Lovely lalit",
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
